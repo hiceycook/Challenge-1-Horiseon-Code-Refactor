@@ -1,11 +1,11 @@
-#Horiseon Code Refactor
+# Horiseon Code Refactor
 
-#Purpose
+# Purpose
 This challenge was to refactor the html and css files for a website
 
-##Built With
+## Built With
 HTML
 CSS
 
-#Preview
+# Preview
 ![Screenshot](assets/images/horiseon-screenshot.jpg)
