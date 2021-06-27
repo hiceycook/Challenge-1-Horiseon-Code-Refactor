@@ -8,4 +8,4 @@ HTML
 CSS
 
 #Preview
-![Screenshot](assets/images/horiseon-screenshot)
+![Screenshot](assets/images/horiseon-screenshot.jpg)
